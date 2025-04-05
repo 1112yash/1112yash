@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Garg</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1112yash&label=Profile%20views&color=0e75b6&style=flat" alt="1112yash" /> </p>
